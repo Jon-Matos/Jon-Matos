@@ -6,10 +6,10 @@
 I'm a **Computer Science** undergraduate minoring in **Artificial Intelligence Development** at **Florida Atlantic University.**
 
 ### 📚 Currently Learning:
-- CAP 4770: Intro to Data Mining and Machine Learning
-- CDA 4102: Computer Architecture
-- CEN 4010: Principles of Software Engineering
-- COT 4420: Theory of Computation
+- EGN 4952C: Engineering Design 2
+- CNT 4403: Foundations of Cybersecurity
+- CAI 4802: Artificial Intelligence for Cybersecurity
+- COP 4045: Python Programming
 
 ### 🎮 Hobbies:
 - Playing games
