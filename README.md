@@ -9,7 +9,7 @@ I'm a **Computer Science** undergraduate minoring in **Artificial Intelligence D
 - EGN 4952C: Engineering Design 2
 - CNT 4403: Foundations of Cybersecurity
 - CAI 4802: Artificial Intelligence for Cybersecurity
-- COP 4045: Python Programming
+- COP 4655: Mobile App Development
 
 ### 🎮 Hobbies:
 - Playing games
